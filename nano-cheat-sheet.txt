@@ -11,3 +11,4 @@ When starting nano:
 
 -$ : displays the contents of a line in a line
 -i : tabs every line you start
+-W : count the number of punctuation points in your text as word parts
