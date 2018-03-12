@@ -6,3 +6,7 @@ Ctrl+e : moves to the end  of the line you are currently on
 Esc g : lets you search for a line or column of text
 Esc $ : enables soft wrapping of long lines
 Esc l : enables hard wrapping of long lines
+
+When starting nano:
+
+-$ : displays the contents of a line in a line
