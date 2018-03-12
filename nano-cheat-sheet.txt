@@ -4,3 +4,4 @@ Ctrl+k : cuts down certain text excerpts
 Ctrl+a : moves to beginning of the line you are currently on
 Ctrl+e : moves to the end  of the line you are currently on
 Esc g : lets you search for a line or column of text
+Esc $ : enables soft wrapping of long lines
