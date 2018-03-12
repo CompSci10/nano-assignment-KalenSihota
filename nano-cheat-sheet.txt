@@ -10,3 +10,4 @@ Esc l : enables hard wrapping of long lines
 When starting nano:
 
 -$ : displays the contents of a line in a line
+-i : tabs every line you start
