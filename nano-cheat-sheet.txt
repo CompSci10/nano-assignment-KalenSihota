@@ -1,1 +1,2 @@
 Ctrl+x : exit
+Ctrl+w : searches for a certain text excerpt
